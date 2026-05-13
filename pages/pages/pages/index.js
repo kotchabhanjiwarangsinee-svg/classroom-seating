@@ -388,3 +388,4 @@ export default function SeatingSystem() {
     </div>
   );
 }
+export default SeatingSystem;
